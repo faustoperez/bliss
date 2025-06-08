@@ -48,7 +48,7 @@ button,
   text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 0.8px;
-  font-family: inherit; /* Asegura que todos los botones hereden la fuente */
+  font-family: inherit;
 }
 
 button:hover,
@@ -582,6 +582,7 @@ font-weight: 400;
 }
 
  
+
   
 
 @media (min-width: 1000px) {
