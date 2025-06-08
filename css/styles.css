@@ -172,7 +172,7 @@ header .header_mobile_menu .dropdown_list a {
   text-decoration: none;
 }
 
-header .header_mobile_menu .dropdown_list span:hover a {
+header .header_mobile_menu .dropdown_list a:hover {
   color: var(--white);
 }
 
